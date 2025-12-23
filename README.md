@@ -39,7 +39,7 @@ DL-for-Autonomous-Vehicle/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PrathamKSrivastav/DL-for-Autonomous-Vehicle.git
+   git clone https://github.com/Vedanti75/Road-Scene-Analyzer.git
    cd DL-for-Autonomous-Vehicle
    ```
 
