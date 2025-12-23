@@ -1,0 +1,9 @@
+torch
+torchvision
+ultralytics
+opencv-python
+matplotlib
+gradio==3.50.2
+pydantic==1.10.12
+numpy
+timm
